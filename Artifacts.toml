@@ -1,0 +1,8 @@
+[[TracyProfiler]]
+arch = "aarch64"
+git-tree-sha1 = "9f3fcf48db111ebb3f99171b3a4ff48cbdf625cd"
+os = "macos"
+
+    [[TracyProfiler.download]]
+    sha256 = "71ff1839d0e98ea6051bae98b32e71ca1d1bc723103fa1ca15cd9ddf0bd68fe9"
+    url = "https://github.com/giordano/TracyProfiler_jll.jl/releases/download/TracyProfiler-v0.10.0+0/TracyProfiler.v0.10.0.aarch64-apple-darwin.tar.gz"
